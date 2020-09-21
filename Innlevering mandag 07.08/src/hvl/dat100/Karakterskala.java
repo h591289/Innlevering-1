@@ -39,6 +39,8 @@ public class Karakterskala {
 	    	
 		}
 	    else if (poeng >= 100 || poeng < 0) {
+	    	showMessageDialog(null, "feilmelding; ugyldig poengsum");
+	    	
 	    	
 	    }
 		}
