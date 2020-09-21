@@ -24,6 +24,7 @@ public class Trinnskatt {
 			inntekt = 164101;
 		}
 		showMessageDialog(null,"Inntekten:"+ skatt);
+		
 	}
 	
 }

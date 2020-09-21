@@ -18,6 +18,7 @@ public class heltall {
 			
 			
 			System.out.println(tall);
+			
 		}
 	}
 
