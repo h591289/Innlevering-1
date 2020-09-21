@@ -7,7 +7,7 @@ public class Karakterskala {
 	public static void main(String[] args) {
 		
 		for(int i = 0; i < 100; i++) {
-		    int poeng = Integer.parseInt(showInputDialog("Din poengsum "));
+		    int poeng = Integer.parseInt(showInputDialog("Din poengsum " ));
 	        char karakter = ' ';
 	    if(poeng <= 100 && poeng >= 90) {
 	       karakter ='A';

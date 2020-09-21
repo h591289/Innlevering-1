@@ -4,7 +4,7 @@ import static javax.swing.JOptionPane.*;
 
 public class Trinnskatt {
 	public static void main(String[] args) {
-		int inntekt= Integer.parseInt(showInputDialog("Inntekten"));
+		int inntekt= Integer.parseInt(showInputDialog("Inntekten" ));
 		int skatt = 0;
 		
 		if (inntekt >= 934051) {

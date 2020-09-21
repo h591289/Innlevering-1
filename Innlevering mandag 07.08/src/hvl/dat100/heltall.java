@@ -10,7 +10,7 @@ public class heltall {
 				System.out.println("tall må være positivt!");
 			
 			}else {
-				for(int i = tall;i>=2;i--) {
+				for(int i = tall;i>=2;i-- ) {
 					tall=tall*(i-1);
 			}
 		
